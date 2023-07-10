@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.co.rays.model.Model&apos; to &apos;UserModel&apos;&#x0D;&#x0A;- Original project: &apos;Advance11&apos;&#x0D;&#x0A;- Original element: &apos;in.co.rays.model.Model&apos;&#x0D;&#x0A;- Renamed element: &apos;in.co.rays.model.UserModel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Model&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.co.rays.model{Model.java[Model" matchStrategy="1" name="UserModel" qualified="false" references="true" similarDeclarations="false" stamp="1682081459473" textual="false" version="1.0"/>
+</session>

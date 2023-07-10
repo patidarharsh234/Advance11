@@ -1,0 +1,17 @@
+127.0.0.1 - - [10/May/2023:14:32:17 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:32:17 +0530] "GET /Advance11/ HTTP/1.1" 200 1728
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:32:27 +0530] "POST /Advance11/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:32:27 +0530] "GET /Advance11/WelcomeLoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:32:27 +0530] "GET /Advance11/WelcomeLogin.jsp HTTP/1.1" 200 1224
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:32:34 +0530] "GET /Advance11/UserListCtl.do HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:33:26 +0530] "GET /Advance11/UserListCtl.do HTTP/1.1" 200 4410
+127.0.0.1 - - [10/May/2023:14:35:20 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:35:21 +0530] "GET /Advance11/LoginCtl HTTP/1.1" 200 1728
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:35:53 +0530] "POST /Advance11/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:35:53 +0530] "GET /Advance11/WelcomeLoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:35:53 +0530] "GET /Advance11/WelcomeLogin.jsp HTTP/1.1" 200 1224
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:35:58 +0530] "GET /Advance11/UserListCtl.do HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:36:38 +0530] "GET /Advance11/UserListCtl.do HTTP/1.1" 200 1847
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:36:50 +0530] "POST /Advance11/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:36:50 +0530] "GET /Advance11/UserListCtl.do HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [10/May/2023:14:36:58 +0530] "GET /Advance11/LoginCtl?operation=logout HTTP/1.1" 200 1728
